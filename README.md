@@ -3,7 +3,7 @@
 
 
 ## Descriptions
-A modification of [akitten's project](https://github.com/akitten/linkedin-public-profile-parser)
+A modification of [akitten's project](https://github.com/akitten/linkedin-public-profile-parser) , integrated with `phantomjs`
 
 The exmaple should give you the following *parsed* result:
 
