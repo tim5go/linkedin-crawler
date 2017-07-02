@@ -1,0 +1,44 @@
+{
+  "url": "https://hk.linkedin.com/in/calvin-ip-cpa-a5229716",
+  "connections": 433,
+  "fullname": "Calvin Ip, CPA",
+  "location": "Hong Kong",
+  "current": "Manager, Risk Advisory at Deloitte China",
+  "summary": "",
+  "skills": [],
+  "languages": [
+    "Cantonese - Native or bilingual proficiency",
+    "English - Full professional proficiency",
+    "Mandarin - Professional working proficiency"
+  ],
+  "experience": {
+    "current": [
+      {
+        "title": "Manager, Risk Advisory",
+        "org": "Deloitte China",
+        "date": "September 2011  –  Present (5 years 2 months)",
+        "location": "Hong Kong",
+        "desc": null
+      }
+    ],
+    "past": []
+  },
+  "education": [
+    {
+      "school": "University of California, Davis",
+      "cert": "BSBS",
+      "date": "2009  –  2011"
+    },
+    {
+      "school": "Foothill College",
+      "cert": "AAAA",
+      "date": "2007  –  2009"
+    },
+    {
+      "school": "Edmonds Community College",
+      "cert": "",
+      "date": "2006  –  2007"
+    }
+  ],
+  "links": []
+}

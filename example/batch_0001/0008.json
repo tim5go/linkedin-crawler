@@ -1,0 +1,58 @@
+{
+  "url": "https://hk.linkedin.com/in/caroline-cheng-92ba5545",
+  "connections": 276,
+  "fullname": "Caroline Cheng",
+  "location": "Hong Kong",
+  "current": "",
+  "summary": "",
+  "skills": [
+    "Stata",
+    "Time Series Analysis",
+    "Quantitative Analytics",
+    "Statistical Modeling",
+    "Statistics",
+    "Econometrics",
+    "Data Analysis",
+    "Actuarial Science"
+  ],
+  "languages": [
+    "English - ",
+    "Cantonese - ",
+    "Mandarin - "
+  ],
+  "experience": {
+    "current": [
+      {
+        "title": "Equity Trader",
+        "org": "Fullgoal Asset Management (HK) Limited",
+        "date": "March 2015  –  Present (1 year 8 months)",
+        "location": "",
+        "desc": "&#x2022; HK equities, options, futures, stock connect, convertible bond<br>&#x2022;Hedge fund"
+      }
+    ],
+    "past": [
+      {
+        "title": "Actuarial Analyst",
+        "org": "Manulife",
+        "date": "January 2014  –  March 2015 (1 year 3 months)",
+        "location": "",
+        "desc": null
+      },
+      {
+        "title": "",
+        "org": "Vision East Investments Limited",
+        "date": "August 2012  –  July 2013 (1 year)",
+        "location": "Hong Kong",
+        "desc": "Private Company--Buy side"
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "University of California, Los Angeles",
+      "cert": "Bachelor of Applied Science (B.A.Sc.), Applied Mathematics/ Actuarial Science, College HonorBachelor of Applied Science (B.A.Sc.), Applied Mathematics/ Actuarial Science, College Honor",
+      "date": "2011"
+    }
+  ],
+  "links": []
+}

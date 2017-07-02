@@ -1,0 +1,76 @@
+{
+  "url": "https://www.linkedin.com/in/kevincarlumchan/",
+  "connections": 500,
+  "fullname": "Kevin Chan",
+  "location": "Hong Kong",
+  "current": "Cross-border E-Commerce | Lazada Group",
+  "summary": "I have a passion for using data to build products and solve problems. With experience in the e-commerce, ad tech, and financial services industries, I am highly adaptable to different working environments and new technologies.Tools: Excel, PowerPoint, Python, SQL, Tableau",
+  "skills": [
+    "Data Analysis",
+    "R",
+    "Python",
+    "SQL",
+    "Tableau",
+    "Financial Modeling",
+    "Financial Analysis",
+    "Corporate Finance",
+    "Due Diligence",
+    "Valuation",
+    "Microsoft Office",
+    "Access",
+    "Finance",
+    "Research",
+    "Accounting",
+    "Microsoft Word",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    "English - Native or bilingual proficiency",
+    "Cantonese - Professional working proficiency"
+  ],
+  "experience": {
+    "current": [
+      {
+        "title": "",
+        "org": "Lazada Group",
+        "date": "November 2015  –  Present (1 year 8 months)",
+        "location": "Hong Kong",
+        "desc": "- Driving product assortment growth.<br><br>- Managing the pricing function of the cross-border business to increase competitiveness in the marketplace.<br><br>- Prioritizing action points and setting up trackers for the team on vendor management initiatives such as campaign deal negotiation and stock management.<br><br>- Automating data-intensive processes such as campaign deal collection and product price suggestions."
+      }
+    ],
+    "past": [
+      {
+        "title": "",
+        "org": "The Exchange Lab",
+        "date": "February 2014  –  November 2015 (1 year 10 months)",
+        "location": "Toronto, Canada Area",
+        "desc": "- Engaged in data analytics and research to make actionable recommendations on the company&#x2019;s ad trading strategy.<br><br>- Produced audience insights and creative data visualizations to win and grow key enterprise clients.<br><br>- Developed dashboards on Tableau to guide strategic decision-making across the organization."
+      },
+      {
+        "title": "",
+        "org": "ZenithOptimedia Group I The ROI Agency",
+        "date": "October 2013  –  February 2014 (5 months)",
+        "location": "Toronto, Canada Area",
+        "desc": "- Developed dashboards to track KPIs for digital advertising campaigns (search, video, and display).<br><br>Accounts: Joe Fresh E-Commerce, Nespresso, and Ubisoft"
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "The University of Western Ontario - Richard Ivey School of Business",
+      "cert": "Honours Business AdministrationHonours Business Administration",
+      "date": "2010  –  2012"
+    },
+    {
+      "school": "The University of Western Ontario",
+      "cert": "BMOS, Management and Organizational StudiesBMOS, Management and Organizational Studies",
+      "date": "2008  –  2010"
+    },
+    {
+      "school": "",
+      "cert": "High SchoolHigh School",
+      "date": "2002  –  2008"
+    }
+  ],
+  "links": []
+}

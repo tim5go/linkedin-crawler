@@ -1,0 +1,60 @@
+{
+  "url": "https://www.linkedin.com/in/john-wong-47891171/",
+  "connections": 68,
+  "fullname": "John Wong",
+  "location": "Hong Kong",
+  "current": "Underwriting Associate at Prudential Hong Kong",
+  "summary": "",
+  "skills": [
+    "Microsoft Excel",
+    "Microsoft Office",
+    "PowerPoint",
+    "Microsoft Word",
+    "Teamwork",
+    "Financial Analysis",
+    "English",
+    "SQL",
+    "Accounting",
+    "Leadership",
+    "Time Management",
+    "Team Leadership"
+  ],
+  "languages": [
+    "Japanese - "
+  ],
+  "experience": {
+    "current": [
+      {
+        "title": "Underwriting Associate",
+        "org": "Prudential Hong Kong",
+        "date": "July 2015  –  Present (2 years)",
+        "location": "",
+        "desc": null
+      }
+    ],
+    "past": [
+      {
+        "title": "Teaching Assistant",
+        "org": "Kumon",
+        "date": "May 2011  –  June 2015 (4 years 2 months)",
+        "location": "Hong Kong",
+        "desc": null
+      },
+      {
+        "title": "",
+        "org": "Hang Seng Bank",
+        "date": "September 2013  –  August 2014 (1 year)",
+        "location": "",
+        "desc": "Personal Lending Department "
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "The University of Hong Kong",
+      "cert": "Bachelor of Science (B.Sc.), Risk Management and FinanceBachelor of Science (B.Sc.), Risk Management and Finance",
+      "date": "2011  –  2015"
+    }
+  ],
+  "links": []
+}

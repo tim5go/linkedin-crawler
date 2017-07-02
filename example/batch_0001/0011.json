@@ -1,0 +1,59 @@
+{
+  "url": "https://hk.linkedin.com/in/helios-chan-frm-erp-6041806b",
+  "connections": 90,
+  "fullname": "Helios Chan, FRM, ERP",
+  "location": "Hong Kong",
+  "current": "Consultant at FactSet",
+  "summary": "",
+  "skills": [
+    "China Business Development",
+    "Retail Brokerage",
+    "Investment Advisory Services",
+    "Exchange Connectivity"
+  ],
+  "experience": {
+    "current": [
+      {
+        "title": "Consultant",
+        "org": "FactSet",
+        "date": "September 2015  –  Present (1 year 2 months)",
+        "location": "Hong Kong",
+        "desc": null
+      }
+    ],
+    "past": [
+      {
+        "title": "Assistant Manager",
+        "org": "CASH Financial Services Group LTD.",
+        "date": "June 2013  –  September 2015 (2 years 4 months)",
+        "location": "",
+        "desc": null
+      },
+      {
+        "title": "Investment Analyst",
+        "org": "BWC Capital Markets",
+        "date": "June 2011  –  May 2012 (1 year)",
+        "location": "",
+        "desc": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "",
+      "cert": "Passed Level II of the CFA ProgramPassed Level II of the CFA Program",
+      "date": ""
+    },
+    {
+      "school": "",
+      "cert": "Energy Risk Professional (ERP) CandidateEnergy Risk Professional (ERP) Candidate",
+      "date": ""
+    },
+    {
+      "school": "The University of Hong Kong",
+      "cert": "Bachelor’s Degree, BBA (Accounting & Finance)Bachelor’s Degree, BBA (Accounting & Finance)",
+      "date": "2007  –  2010"
+    }
+  ],
+  "links": []
+}

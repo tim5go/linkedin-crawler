@@ -1,0 +1,105 @@
+{
+  "url": "https://uk.linkedin.com/in/ash-booth-ph-d-93126a4b",
+  "connections": 500,
+  "fullname": "Ash Booth Ph.D.",
+  "location": "London, United Kingdom",
+  "current": "Data Scientist, Algo Trader & Technologist",
+  "summary": "In a nutshell, I help businesses generate value through intelligent use of data.My interests lie in the study of global financial markets as complex adaptive systems. A substantial proportion of my research has focussed on using artificial intelligence for the development and analysis of algorithmic trading systems.Specialties: All things data science, statistical and probabilistic machine learning methods. Design, development, implementation and execution of trading strategies. Mathematics. Programming. ",
+  "skills": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Algorithms",
+    "Data Analysis",
+    "Research",
+    "Mathematical Modeling",
+    "Matlab",
+    "Statistics",
+    "Agent-based Modeling",
+    "C++",
+    "Programming",
+    "R",
+    "Java",
+    "Python",
+    "Data Mining",
+    "See 17+",
+    "Time Series Analysis",
+    "Numerical Analysis",
+    "Physics",
+    "Computer Science",
+    "Science",
+    "Data Science",
+    "Scientific Computing",
+    "Business Analysis",
+    "Simulations",
+    "Deep Learning",
+    "Bloomberg API",
+    "Statistical Modeling",
+    "Signal Processing",
+    "Project Management",
+    "D3.js",
+    "C#",
+    "AngularJS",
+    "See less"
+  ],
+  "experience": {
+    "current": [
+      {
+        "title": "",
+        "org": "HSBC",
+        "date": "September 2016  –  Present (2 months)",
+        "location": "",
+        "desc": null
+      },
+      {
+        "title": "Founder",
+        "org": "Alpha Algorithmics",
+        "date": "July 2011  –  Present (5 years 4 months)",
+        "location": "",
+        "desc": "Trading technology company that specialises in developing proprietary systems for automated and algorithmic trading<br><br>Consulting for hedge funds, proprietary traders and investment banks."
+      }
+    ],
+    "past": [
+      {
+        "title": "",
+        "org": "HSBC Global Banking and Markets",
+        "date": "August 2015  –  September 2016 (1 year 2 months)",
+        "location": "",
+        "desc": "Based in the Global Markets Management Office developing solutions across the data science pipeline from ETL to machine learning and data visualisation.<br><br>Delivered tools for: <br>- Social media monitoring<br>- Recommender systems<br>- Anomaly detection<br><br>Worked heavily with Python, R, MSSQL Server, C# and Javascript (predominantly Angular.js and D3.js)."
+      },
+      {
+        "title": "",
+        "org": "HSBC Global Banking and Markets",
+        "date": "August 2014  –  August 2015 (1 year 1 month)",
+        "location": "",
+        "desc": null
+      },
+      {
+        "title": "",
+        "org": "Global Macro Fund",
+        "date": "January 2014  –  June 2014 (6 months)",
+        "location": "",
+        "desc": "- Working with the Execution Modelling team to develop and refine market impact and transaction cost models.<br>- Conducting research to model and forecast future price actions and volatility.<br>- Building custom regression methods in Python and R."
+      },
+      {
+        "title": "",
+        "org": "London-based Fund",
+        "date": "March 2013  –  September 2013 (7 months)",
+        "location": "",
+        "desc": "- Adapting forecasting techniques, such as linear and non-linear regression, neural networks and support vector machines for latency prediction and algorithmic improvement.<br>- Enhancing data curation and analysis using a number of Python modules including: Pandas, stats models, scikit-learn."
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "University of Southampton",
+      "cert": "Doctor of Philosophy (PhD), Machine Learning, Algo. Trading & Complex SystemsDoctor of Philosophy (PhD), Machine Learning, Algo. Trading & Complex Systems",
+      "date": "2010  –  2014"
+    },
+    {
+      "school": "University of Southampton",
+      "cert": "Bachelor of Science (BSc), Biomedical Sciences, GeneralBachelor of Science (BSc), Biomedical Sciences, General",
+      "date": "2007  –  2010"
+    }
+  ],
+  "links": []
+}
