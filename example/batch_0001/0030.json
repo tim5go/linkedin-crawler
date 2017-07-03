@@ -1,0 +1,83 @@
+{
+  "url": "https://www.linkedin.com/in/winsenwan/",
+  "connections": 450,
+  "fullname": "Winsen Wan",
+  "location": "Hong Kong",
+  "current": "Business Analyst Lead at Cathay Pacific Airways",
+  "summary": "Winsen has been working in the Information Technology field with exposure in various industries and both business and technical roles.  He delivered technology projects which provide enhanced capabilities and better experiences for both external and internal customers.  He was heavily involved in the formation of Agile practices in the organization.",
+  "skills": [
+    "Project Delivery",
+    "Requirements Analysis",
+    "SDLC",
+    "Stakeholder Management",
+    "Data Warehousing",
+    "Airlines",
+    "Business Analysis",
+    "Strategy",
+    "Agile Methodologies",
+    "Project Management",
+    "Change Management",
+    "Business Process Improvement",
+    "Requirements Gathering",
+    "Management"
+  ],
+  "languages": [
+    "English - Native or bilingual proficiency",
+    "Cantonese - Native or bilingual proficiency",
+    "Mandarin - Professional working proficiency"
+  ],
+  "experience": {
+    "current": [
+      {
+        "title": "",
+        "org": "Cathay Pacific Airways",
+        "date": "August 2016  –  Present (1 year)",
+        "location": "",
+        "desc": null
+      },
+      {
+        "title": "",
+        "org": "Cathay Pacific Airways",
+        "date": "2010  –  Present (7 years)",
+        "location": "",
+        "desc": null
+      }
+    ],
+    "past": [
+      {
+        "title": "",
+        "org": "Hospital Authority",
+        "date": "2009  –  2010 (1 year)",
+        "location": "",
+        "desc": "Delivered data warehouse solution for patient data consolidation to support subscription-based data services.  Established enhanced capability on analyzing disease trends."
+      },
+      {
+        "title": "",
+        "org": "Cathay Pacific Airways",
+        "date": "2006  –  2009 (3 years)",
+        "location": "",
+        "desc": "Managed delivery of medium and small sized projects.  Engaged business stakeholders to understand operational challenges to facilitate analysis on business need and design of value-added IT solutions.<br>"
+      },
+      {
+        "title": "",
+        "org": "Hospital Authority",
+        "date": "2005  –  2006 (1 year)",
+        "location": "",
+        "desc": "Delivered core modules for a new costing solution used by 50+ Finance users.  Responsible for enhancing system efficiency by conducting performance analysis, database and source code tuning to resolve major performance issues discovered right before project completion."
+      }
+    ]
+  },
+  "education": [
+    {
+      "school": "City University of Hong Kong",
+      "cert": "Masters, Computer ScienceMasters, Computer Science",
+      "date": "2005  –  2007"
+    },
+    {
+      "school": "City University of Hong Kong",
+      "cert": "Bachelor, Computer ScienceBachelor, Computer Science",
+      "date": "2001  –  2005"
+    }
+  ],
+  "links": []
+}
